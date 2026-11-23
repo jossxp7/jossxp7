@@ -1,9 +1,9 @@
-# 🛡️ Tu Marca Digital en la Era Digital | Perfil Profesional
+# Mi Marca Digital en la Era Digital | Perfil Profesional
 
 > *"Construyendo una huella digital segura, ética e impactante desde la Universidad Tecnológica de Panamá (UTP)."*
 
 ### 🌐 1. Importancia de la Marca Digital (Sobre mí)
-¡Hola! Soy **[Joseph Vergara]**, estudiante de 1.er año de la Licenciatura en Ciberseguridad en la **Universidad Tecnológica de Panamá (UTP)**.
+¡Hola, Soy **Joseph Vergara**, estudiante de 1.er año de la Licenciatura en Ciberseguridad en la **Universidad Tecnológica de Panamá (UTP)**.
 
 Entiendo la marca personal no como un currículum estático, sino como la demostración activa de mi aprendizaje continuo, la ética profesional en el manejo de la información y la colaboración en entornos digitales.
 
@@ -14,7 +14,7 @@ Entiendo la marca personal no como un currículum estático, sino como la demost
 
 ---
 
-### 💻 2. Creación de Portafolio Profesional Digital (Habilidades y Proyectos)
+### 2. Creación de Portafolio Profesional Digital (Habilidades y Proyectos)
 
 Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avances prácticos y laboratorios desarrollados durante la carrera:
 

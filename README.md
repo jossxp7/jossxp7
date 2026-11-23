@@ -35,8 +35,7 @@ Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avance
 
 Mantengo una identidad profesional coherente e interconectada en las plataformas digitales:
 * 💼 **Perfil Profesional en LinkedIn:** [Ver mi perfil en LinkedIn](PEGA_AQUI_TU_ENLACE_DE_LINKEDIN)
-* 📄 **Curriculum Vitae Digital (PDF):** [Descargar CV Actualizado](PEGA_AQUI_EL_ENLACE_DE_TU_CV)
-* 📧 **Correo Institucional UTP:** tu.nombre@utp.ac.pa
+* 📧 **Correo Institucional UTP:** joseph.vergara@utp.ac.pa
 
 ---
 <p align="center">
